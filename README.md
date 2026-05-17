@@ -32,3 +32,7 @@ Then run the server (listening on port 3000 per the `Dockerfile` declaration):
 rails server -p $PORT -b 0.0.0.0
 ```
 
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
